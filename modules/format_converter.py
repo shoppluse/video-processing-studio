@@ -4,7 +4,6 @@ def convert_format(input_path, output_path):
 
     clip = VideoFileClip(input_path)
 
-    # MP4 Conversion
     if output_path.endswith(".mp4"):
 
         clip.write_videofile(
@@ -13,12 +12,11 @@ def convert_format(input_path, output_path):
             audio_codec="aac"
         )
 
-    # AVI Conversion
     elif output_path.endswith(".avi"):
 
         clip.write_videofile(
             output_path,
-            codec="png"
+            codec="mpeg4"
         )
 
     clip.close()
