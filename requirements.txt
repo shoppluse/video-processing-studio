@@ -1,0 +1,11 @@
+streamlit
+moviepy
+opencv-python
+imageio
+imageio-ffmpeg
+ffmpeg-python
+numpy
+pillow
+decorator
+tqdm
+proglog
