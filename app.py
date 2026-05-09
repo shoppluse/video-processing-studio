@@ -1,8 +1,3 @@
-# 🚀 Enhanced Video Processing Studio UI
-
-Replace your current `app.py` with the following upgraded version.
-
-```python
 import streamlit as st
 import os
 import glob
