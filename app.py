@@ -427,20 +427,3 @@ else:
         """,
         unsafe_allow_html=True
     )
-
-```
-
-# 🔥 What Changed
-
-* Modern glassmorphism UI
-* Gradient hero section
-* Better sidebar
-* Animated buttons
-* Professional cards
-* Metadata dashboard
-* Better frame gallery layout
-* Progress bar effects
-* Modern typography
-* Improved user experience
-
-This will make your project look like a real startup-level web app instead of a normal college project.
